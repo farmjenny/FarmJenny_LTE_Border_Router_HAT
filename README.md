@@ -9,7 +9,9 @@ A Border Router connects a local wireless network to other IP-based networks. Th
 When this board is used with a Raspberry Pi Model 3B and the OpenThread Border Router (OTBR) software, it is a Thread Certified Component. Learn more [here](https://openthread.io/guides/border-router).
 
 # Features
-* Socket for Nimbelink(R) or compatible end-certified cellular modem
+![Farm Jenny LTE Border Router Features](https://github.com/farmjenny/FarmJenny_LTE_Border_Router_Hat/blob/master/images/features.PNG)
+
+* Socket for Nimbelink(R) or compatible end-certified cellular modem (not included)
 * Certified nRF52840-based BLE/Zigbee radio with PA/LNA for long range
 * Radio programming via standard Tag-Connect socket
 * NFC Tag interface (flex/antenna required)
