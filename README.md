@@ -34,7 +34,7 @@ This board conforms to the mechanical specifications for a Raspberry Pi HAT, ref
 ![Farm Jenny LTE Border Router Mechanicals](https://github.com/farmjenny/FarmJenny_LTE_Border_Router_Hat/blob/master/images/dimensions.JPG)
 
 # Power:
-**IMPORTANT** You must provide an adequate power supply for the Pi that can handle the current required by Pi and cell modem. This HAT includes a very robust 3A power supply for the cellular modem with generous bulk capacitance, however depending on the modem model, peak and sustained current demand can be very high.
+**IMPORTANT** You must provide an adequate power supply for the Pi that can handle the current required by Pi and cell modem. This HAT takes power from the Pi's 5VDC supply pins and uses a very robust 3A power supply to generate the 4V required by the cellular modem.  OUr power supply includes generous bulk capacitance to filter out large spikes in current demanded by the modem, however depending on the modem model, peak and sustained current demand can still be very high.  Even so-called low-power cellular technologies like CAT-M1 and NB-IOT can require short bursts of high current.
 
 The HAT draws less than 50mA from the 3.3V power supply of the Pi.
 
