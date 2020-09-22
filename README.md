@@ -1,4 +1,4 @@
-# Farm Jenny LTE Border Router HAT
+# Farm Jenny LTE-Thread Border Router HAT
 Turn a Raspberry Pi or compatible Single Board Computer with 40-pin header into a feature-packed cellular Border Router. Just add your favorite pre-certified cellular modem.
 
 A Border Router connects a local wireless network to other IP-based networks. This board was designed to implement a Thread Border Router, but its Nordic Semiconductors nRF52840-based radio module can support a variety of wireless protocols, including (Thread, BLE, Zigbee, and proprietary).
