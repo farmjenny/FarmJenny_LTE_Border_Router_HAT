@@ -46,7 +46,7 @@ The board includes a Fanstel [BT840XE](https://www.fanstel.com/bt840x-nrf52840-m
 
 The Radio interfaces with the Pi using a high-speed SPI port, including an optional interrupt line.
 
-By default, the Radio comes programmed with OpenThread Network Co-Processor (NCP) firmware and no bootloader.  Custom programming is available on request.  Firmware can also be programmed using a compatible SWD programmer/debugger and [6-pin Tag-Connect cable](https://www.tag-connect.com/product-category/products/cables/6-pin-target).
+By default, the Radio comes programmed with OpenThread Radio Co-Processor (RCP) firmware and no bootloader.  Custom programming is available on request.  Firmware can also be programmed using a compatible SWD programmer/debugger and [6-pin Tag-Connect cable](https://www.tag-connect.com/product-category/products/cables/6-pin-target).
 
 # USB Port:
 The board includes a micro-USB port (J2) connected to the cellular modem. This connection is for data only. The board CANNOT be powered through this USB connection and is intended for use only when installed on a suitable Single-Board Computer.
